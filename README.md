@@ -2,7 +2,8 @@
 
 The RC4 encryption algorithm works by generating a stream of pseudorandom bytes using a key scheduler and a pseudorandom number generator. 
 
-![Flowchart-of-RC4-Algorithm](https://github.com/0xAbby/RC4/assets/147592615/c3983075-5dea-43db-97c7-e98109653c7e)
+![Flowchart-of-RC4-Algorithm](https://github.com/user-attachments/assets/12988c99-c3a2-41f1-9a87-cd691aeafc45)
+
 
 [source of the image: https://www.researchgate.net/figure/Flowchart-of-RC4-Algorithm_fig1_323783954]
 
